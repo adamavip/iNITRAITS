@@ -1,4 +1,4 @@
-# Flask example
+# iNITRAITS
 
 Using Flask to build a machine learning app to predict the starch content of pearl millet.
 
