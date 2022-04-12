@@ -2,7 +2,7 @@
 ![iNIRS](./static/img/iNIRS.PNG)
 Using Flask to build a machine learning app to predict the starch content of pearl millet.
 
-## Built With
+## Built with
 
 - Python
 - FLask 
