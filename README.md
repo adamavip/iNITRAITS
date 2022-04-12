@@ -4,10 +4,14 @@ Using Flask to build a machine learning app to predict the starch content of pea
 
 ## Built With
 
-- Flask
+- Python
+- FLask 
 - HTML
-- CSS
+- Bootstrap
+- CSS grid
 - JavaScript
+- Particles.js
+- DataTables.js
 
 ## Get Live Demo
 [Live Demo Link](https://adamavip.pythonanywhere.com/)
