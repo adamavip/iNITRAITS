@@ -40,6 +40,30 @@ Run the project on local server
 python main.py
 ```
 
+## Application structure
+```
+iNITRAITS/
+├─ templates/
+│  ├─ sensor.html
+│  ├─ model.html
+│  ├─ prediction.html
+├─ static/
+│  ├─ img/
+│  ├─ file/
+│  ├─ js/
+│  ├─ models/
+│  ├─ styles.css
+│  ├─ prediction.css
+│  ├─ model.css
+├─ .gitignore
+├─ prepare_data.py
+├─ prediction.py
+├─ preprocessing.py
+├─ main.py
+├─ package.json
+├─ README.md
+```
+
 ## Author
 To open project with vs code 
 
