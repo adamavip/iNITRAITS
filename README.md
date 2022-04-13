@@ -18,24 +18,24 @@ Using Flask to build a machine learning app to predict the starch content of pea
 
 ## Installation
 
-Clone the repository
+- Clone the repository
 ```buildoutcfg
 git clone https://github.com/adamavip/iNITRAITS.git
 
 ```
 
-Move to the directory
+- Move to the directory
 ```buildoutcfg
 cd iNIRS
 ```
 
-Install packages:
+- Install packages:
 
 ```
 $ pip install -r requirements.txt
 ```
 
-Run the project on local server
+- Run the project on local server
 ```buildoutcfg
 python main.py
 ```
